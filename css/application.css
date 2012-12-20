@@ -50,3 +50,10 @@ body {
   width: 16px;
   height: 16px;
 }
+
+.logo {
+  border: 0;
+  width: 32px;
+  height: 32px;
+  margin-top: -6px;
+}
