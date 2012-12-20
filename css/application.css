@@ -22,8 +22,8 @@ body {
   line-height: 1;
 }
 .main h2 {
-  font-size: 40px;
-  text-aliogn: center;  
+  font-size: 32px;
+  text-aliogn: left;  
   margin-left: 20px;
 }
 .main .btn {
