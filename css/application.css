@@ -21,6 +21,10 @@ body {
   font-size: 48px;
   line-height: 1;
 }
+.jumbotron h2 {
+  text-aliogn: center;  
+  margin-left: 20px;
+}
 .main .btn {
   font-size: 21px;
   padding: 14px 24px;
