@@ -8,7 +8,7 @@ summary: "It was easy to do. I am saving a lot of money (and reducing my carbon 
 ---
 
 
-  [ ADD PICTURES ]
+  <p>[ ADD PICTURES ]</p>
 
 
 There were two sorts of halogen bulbs fittings in our house: MR16 (with a GU5.3 base) and GU10. There were a combined total of eighteen MR16 recessed fittings in the kitchen, bathroom and hallway, and six GU10 fittings in various ceiling lights in bedrooms. The combined output from these 24 bulbs, which each took a 50W bulb, was 1,200kW, together were costing about 20p per hour.
