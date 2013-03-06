@@ -1,3 +1,5 @@
+.inset { margin: 40px; }
+
 .number { display: inline; font-size: 24px; font-family: "Times New Roman", Times, serif; background-color: Gold; padding: 4px; }
 .toppic { width: 100%; }
 
