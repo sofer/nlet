@@ -29,13 +29,14 @@ Replacing transformers is a simple and relatively inexpensive job, but replacing
 
 In the end, we got the old transformers pulled out and the old GU5.3 sockets replaced with GU10 sockets without having to replace the housings, although we had to be careful in our choice of bulb.
 
-In the end, we found a lesser-known brand called Maxilux (which use the Sharp 3.6W Zenigata LED). They were the only bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures and dimmable (we actually don't have any dimmer switches installed, but these bulbs could last for several years and are a big investment, so we wanted to keep it as an option).
+In the end, we found [a lesser-known brand called Maxilux (which use Sharp 3.6W Zenigata LEDs) - TO BE CONFIRMED ]. They were the only bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures and dimmable (we actually don't have any dimmer switches installed, but these bulbs could last for several years and are a big investment, so we wanted to keep it as an option).
 
 If, on the other hand, we had decided to just replace the existing GU5.3 bulbs with the equivalent LEDs, then because of our temperamental (dimmable) transformers and tight-fitting light fixtures, the Philips Master LEDspot LV would have been&mdash;of all the bulbs we tried&mdash;our only choice, but the integrated fan with an audible whine made it unacceptable to us.
 
 If light output and dimmer switches were not a consideration and if our existing transformers and light fixtures were more forgiving, we probably would have just stayed with GU5.3 fittings and 12V supply, in which case we would have had a wide selection of bulbs to choose from.
 
-The supplier of the bulbs we eventually chose is...
+The bulbs we chose were... from...
+
 
 
 
