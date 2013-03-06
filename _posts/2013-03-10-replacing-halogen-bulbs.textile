@@ -4,7 +4,7 @@ top: true
 title: Replacing halogen bulbs with LEDs
 author: ds
 tags: [] 
-summary: "It was easy to do. I am saving a lot of money." 
+summary: "It was easy to do. I am saving a lot of money (and reducing my carbon footprint a bit, too)." 
 ---
 
   [ ADD PICTURES ]
@@ -33,7 +33,7 @@ In the end, we found [a lesser-known brand called Maxilux (which use Sharp 3.6W 
 
 If, on the other hand, we had decided to just replace the existing GU5.3 bulbs with the equivalent LEDs, then because of our temperamental (dimmable) transformers and tight-fitting light fixtures, the Philips Master LEDspot LV would have been&mdash;of all the bulbs we tried&mdash;our only choice, but the integrated fan with an audible whine made it unacceptable to us.
 
-If light output and dimmer switches were not a consideration and if our existing transformers and light fixtures were more forgiving, we probably would have just stayed with GU5.3 fittings and 12V supply, in which case we would have had a wide selection of bulbs to choose from.
+If light output and dimmer switches were not a consideration and if our existing transformers and light fixtures were more forgiving, we probably would have just stayed with GU5.3 fittings and 12V supply, in which case we would have had a much wider selection of bulbs to choose from.
 
 The bulbs we chose were... from...
 
