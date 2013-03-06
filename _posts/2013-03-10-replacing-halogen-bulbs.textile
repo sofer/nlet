@@ -7,7 +7,9 @@ tags: []
 summary: "It was easy to do. I am saving a lot of money (and reducing my carbon footprint a bit, too)." 
 ---
 
+
   [ ADD PICTURES ]
+
 
 There were two sorts of halogen bulbs fittings in our house: MR16 (with a GU5.3 base) and GU10. There were a combined total of eighteen MR16 recessed fittings in the kitchen, bathroom and hallway, and six GU10 fittings in various ceiling lights in bedrooms. The combined output from these 24 bulbs, which each took a 50W bulb, was 1,200kW, together were costing about 20p per hour.
 
@@ -21,7 +23,7 @@ There were two choices: replace the transformers with new ones or remove the tra
 
 The GU10 halogen bulb was introduced in the 1990s to make it possible to install MR16-type recessed reflectors without also having to install a separate transformer. The GU10 was more convenient, but it was less efficient the a 12V halogen spot and the light quality was not as good.
 
-The introduction of LED lighting eliminates these differences. LED bulbs with either fitting produce the same quality of light output for the same price. Furthermore, those with GU10 fittings do not require a separate transformer and are more likely to be compatible with a dimmer switch.
+The introduction of LED lighting turns these difference on their head. mains-voltage GU10s tend to be more reliable, more efficient and less temperamental with dimmer switches than low-voltage MR16s.
 
 For new installations there is now usually no reason to use GU5.3 bulbs with a 12V supply, but for a retrofit the choice may not be quite so straight forward. Bulbs with GU10 fittings tend to be slightly longer than GU5.3 bulbs and some are also wider, and they will not necessarily be compatible with existing fixtures.
 
@@ -29,16 +31,15 @@ Replacing transformers is a simple and relatively inexpensive job, but replacing
 
 In the end, we got the old transformers pulled out and the old GU5.3 sockets replaced with GU10 sockets without having to replace the housings, although we had to be careful in our choice of bulb.
 
-In the end, we found [a lesser-known brand called Maxilux (which use Sharp 3.6W Zenigata LEDs) - TO BE CONFIRMED ]. They were the only bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures and dimmable (we actually don't have any dimmer switches installed, but these bulbs could last for several years and are a big investment, so we wanted to keep it as an option).
+In the end, we found a lesser-known brand called Maxilux (which use Sharp 3.6W Zenigata LEDs). They were the only bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures and dimmable (we actually don't have any dimmer switches installed, but these bulbs could last for several years and are a big investment, so we wanted to keep it as an option).
 
-If, on the other hand, we had decided to just replace the existing GU5.3 bulbs with the equivalent LEDs, then because of our temperamental (dimmable) transformers and tight-fitting light fixtures, the Philips Master LEDspot LV would have been&mdash;of all the bulbs we tried&mdash;our only choice, but the integrated fan with an audible whine made it unacceptable to us.
+If, on the other hand, we had decided to just replace the existing GU5.3 bulbs with the equivalent LEDs, then because of our temperamental transformers and tight-fitting light fixtures, of all the bulbs we tried the Philips Master LEDspot LV would have been our only choice, although its integrated fan made an audible whine which would, in any case, have made it unacceptable to us.
 
-If light output and dimmer switches were not a consideration and if our existing transformers and light fixtures were more forgiving, we probably would have just stayed with GU5.3 fittings and 12V supply, in which case we would have had a much wider selection of bulbs to choose from.
+If our existing light fixtures had more space and we needed more light output, then we might have been tempted with one of the newer Philips or Toshiba LEDs, but after a lot of research, we are delighted with the choice we have made.
 
-The bulbs we chose were... from...
+The bulbs we eventually chose were Dimmable Maxilux Zenigata 4.5W Cool White GU10 LEDs, supplied by <a href="http://www.yourwelcome.co.uk">yourwelcome.co.uk</a>.
 
-
-
+We have negotiated a discount with the folks at yourwelcome.co.uk. If you are part of the Energy Challenge and you would like to order some LED lighting, then you can order through us and we will pass the savings on to you. 
 
 
 
