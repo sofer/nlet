@@ -14,14 +14,14 @@ summary: "It was easy to do. We are saving money (and reducing our carbon footpr
 *Setup*
 Until this month, we had two sorts of halogen bulbs fittings in our house: MR16 (with a GU5.3 base) and GU10. We had a combined total of eighteen MR16 recessed fittings in the kitchen, bathroom and hallway, and six GU10 fittings in various ceiling lights in bedrooms. The combined output from these 24 bulbs, which each took a 50W bulb, was 1,200kW, at a total cost of about 20p per hour.
 
-In case you don't know, standard MR16 lights require a 12V supply which is supplied by a separate transformer. We installed them in our kitchen because they produce a good quality of light without taking up a lot of space.
+In case you don't know, standard MR16 lights require a 12V supply which is supplied by a separate transformer. We installed them in our kitchen many years ago because they produce a good quality of light without taking up a lot of space.
 
 GU10 halogen bulbs&mdash;which were introduced in the 1990s&mdash;make it possible to install MR16-type recessed reflectors without also having to install a separate transformer. A GU10 halogen bulb is more convenient, but it is also less efficient than a 12V halogen spot and the light quality is not as good.
 
 *Swapping to LEDs*
 The introduction of LED lighting turns the differences between standard MR16 and GU10 bulbs on their head. Mains-voltage GU10 LEDs tend to be more reliable, more efficient and less temperamental with dimmer switches than low-voltage MR16 LEDs. So, for new installations there is now usually no reason to use GU5.3 bulbs with a 12V supply.
 
-But for a retrofit, the choice may not be quite so straight forward. Bulbs with GU10 fittings tend to be slightly longer than GU5.3 bulbs and some are also wider, so they will not necessarily be compatible with existing fixtures. Replacing transformers is a simple and relatively inexpensive job, but replacing an entire downlight housing is more costly. 
+But for a retrofit, the choice may not be quite so straight forward. Bulbs with GU10 fittings are slightly longer than GU5.3 bulbs and many GU10 LEDs are wider, so they will not necessarily be compatible with existing fixtures. Replacing transformers is a simple and relatively inexpensive job, but replacing an entire downlight housing is more costly. 
 
 To complicate things further, many LED bulbs will not work with existing 12V transformers, which are designed for the much higher currents required by halogen bulbs. In general, 12V LEDs will not work at all with existing dimmer switches.
 
