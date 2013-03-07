@@ -30,7 +30,7 @@ In our case, several 12V LED bulbs acquired at different times over the last yea
 So, we gave up on the idea of doing a simple bulb swap and decided to have our existing transformers removed and the old GU5.3 sockets replaced with GU10 sockets running straight off the mains (except in the bathroom, where we kept the old fittings, because of the stricter regulations for re-wiring in bathrooms).
 
 *Conclusion*
-In the end, we found a lesser-known brand called Maxilux. They were the only bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. We actually don't have any dimmer switches installed, but these bulbs could last for several years and are a big investment, so we wanted to keep it as an option.
+In the end, we found a lesser-known brand called Maxilux. These were the only LED bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. We actually don't have any dimmer switches installed, but these bulbs could last for several years and are a big investment, so we wanted to keep them as an option.
 
 Our halogen bulbs have now all been replaced with LEDs with a combined output of less than 100W, costing a total of around 2p per hour, with no significant loss of light output. If each light is used on average for six hours per day, then the average saving will be about £400 per year&mdash;or £16 per bulb&mdash;with a payback period of about 9 months or so and an expected life of 10-15 years. 
 
@@ -38,7 +38,7 @@ Our halogen bulbs have now all been replaced with LEDs with a combined output of
   <img src="/images/LED-vs-halogen.png"/>
 </div>
 
-If our existing light fixtures had more space and we had needed more light output, then we might have been tempted with one of the newer LEDs from the likes of Philips or Toshiba. But we have got used to the somewhat faded light of our old halogens bulbs, which lose significant light output over their lifetimes and are no longer as bright as when we last changed them. LED lights in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually too bright for our taste.
+If our existing light fixtures had more space and we had needed more light output, then we might have been tempted with one of the newer LEDs from the likes of Philips or Toshiba. But we have got used to the somewhat faded light of our old halogens bulbs, which lose significant light output over their lifetimes and are no longer as bright as when we last changed them. LED bulbs in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually too bright for our taste.
 
 We eventually chose dimmable Maxilux Zenigata 4.5W Cool White GU10 bulbs with Sharp 3.6W Zenigata LEDs, supplied by <a href="http://www.yourwelcome.co.uk">yourwelcome.co.uk</a>.
 
