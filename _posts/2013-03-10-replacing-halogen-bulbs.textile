@@ -27,7 +27,7 @@ To complicate things further, many LED bulbs will not work with existing 12V tra
 
 In our case, several 12V LED bulbs acquired at different times over the last year or so have proved to be either too large for our existing recessed light fittings or incompatible with our existing transformers. The only bulb we found that did work was a Philips Master LEDspot LV, but its integrated cooling fan produced an audible whine which made it unacceptable to us.
 
-So, we gave up on the idea of doing a simple bulb swap and decided to have our existing transformers removed and the old GU5.3 sockets replaced with GU10 sockets running straight off the mains.
+So, we gave up on the idea of doing a simple bulb swap and decided to have our existing transformers removed and the old GU5.3 sockets replaced with GU10 sockets running straight off the mains (except in the bathroom, where we kept the old fittings, because of the stricter regulations for re-wiring in bathrooms).
 
 *Conclusion*
 In the end, we found a lesser-known brand called Maxilux. They were the only bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. We actually don't have any dimmer switches installed, but these bulbs could last for several years and are a big investment, so we wanted to keep it as an option.
