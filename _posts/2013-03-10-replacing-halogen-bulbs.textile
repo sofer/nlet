@@ -4,7 +4,7 @@ top: true
 title: Replacing halogen bulbs with LEDs
 author: ds
 tags: [] 
-summary: "It was easy to do. We are saving a lot of money (and reducing our carbon footprint a bit, too)." 
+summary: "It was easy to do. We are saving money (and reducing our carbon footprint a bit, too)." 
 ---
 
 <div class="center inset">
