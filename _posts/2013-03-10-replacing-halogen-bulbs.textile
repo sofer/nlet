@@ -4,48 +4,55 @@ top: true
 title: Replacing halogen bulbs with LEDs
 author: ds
 tags: [] 
-summary: "It was easy to do. I am saving a lot of money (and reducing my carbon footprint a bit, too)." 
+summary: "It was easy to do. We are saving a lot of money (and reducing our carbon footprint a bit, too)." 
 ---
+
+<div class="center inset">
+  <img src="/images/halogens.png"/>
+</div>
+
+*Setup*
+
+Until this month, we had two sorts of halogen bulbs fittings in our house: MR16 (with a GU5.3 base) and GU10. We had a combined total of eighteen MR16 recessed fittings in the kitchen, bathroom and hallway, and six GU10 fittings in various ceiling lights in bedrooms. The combined output from these 24 bulbs, which each took a 50W bulb, was 1,200kW, at a total cost of about 20p per hour.
+
+In case you don't know, standard MR16 lights require a 12V supply which is supplied by a separate transformer. We installed them in our kitchen because they produce a good quality of light without taking up a lot of space.
+
+GU10 halogen bulbs&mdash;which were introduced in the 1990s&mdash;make it possible to install MR16-type recessed reflectors without also having to install a separate transformer. A GU10 halogen bulb is more convenient, but it is also less efficient than a 12V halogen spot and the light quality is not as good.
+
+*Swapping to LEDs*
+
+The introduction of LED lighting turns the differences between standard MR16 and GU10 bulbs on their head. Mains-voltage GU10 LEDs tend to be more reliable, more efficient and less temperamental with dimmer switches than low-voltage MR16 LEDs. So, for new installations there is now usually no reason to use GU5.3 bulbs with a 12V supply.
+
+But for a retrofit, the choice may not be quite so straight forward. Bulbs with GU10 fittings tend to be slightly longer than GU5.3 bulbs and some are also wider, so they will not necessarily be compatible with existing fixtures. Replacing transformers is a simple and relatively inexpensive job, but replacing an entire downlight housing is more costly. 
+
+To complicate things further, many LED bulbs will not work with existing 12V transformers, which are designed for the much higher currents required by halogen bulbs. In general, 12V LEDs will not work at all with existing dimmer switches.
+
+In our case, several 12V LED bulbs acquired at different times over the last year or so have proved to be either too large for our existing recessed light fittings or incompatible with our existing transformers. The only bulb we found that did work was a Philips Master LEDspot LV, but its integrated cooling fan produced an audible whine which made it unacceptable to us.
+
+So, we gave up on the idea of doing a simple bulb swap and decided to have our existing transformers removed and the old GU5.3 sockets replaced with GU10 sockets running straight off the mains.
+
+*Decision*
+
+In the end, we found a lesser-known brand called Maxilux. They were the only bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. We actually don't have any dimmer switches installed, but these bulbs could last for several years and are a big investment, so we wanted to keep it as an option.
+
+Our halogen bulbs have now all been replaced with LEDs with a combined output of less than 100W, costing a total of around 2p per hour, with no significant loss of light output. If each light is used on average for six hours per day, then the average saving will be about £400 per year&mdash;or £16 per bulb&mdash;with a payback period of about 9 months or so.
 
 <div class="center inset">
   <img src="/images/LED-vs-halogen.png"/>
 </div>
 
-There were two sorts of halogen bulbs fittings in our house: MR16 (with a GU5.3 base) and GU10. There were a combined total of eighteen MR16 recessed fittings in the kitchen, bathroom and hallway, and six GU10 fittings in various ceiling lights in bedrooms. The combined output from these 24 bulbs, which each took a 50W bulb, was 1,200kW&mdash;costing about 20p per hour in total.
+If our existing light fixtures had more space and we had needed more light output, then we might have been tempted with one of the newer LEDs from the likes of Philips or Toshiba. But we have got used to the somewhat faded light of our old halogens bulbs, which lose significant light output over their lifetimes and are no longer as bright as when we last replaced them. LED lights in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually too bright for our taste.
 
-These bulbs have now all been replaced with LEDs with a combined output of less than 100W, costing a total of around 2p per hour, with no significant loss of light output.
+The bulbs we eventually chose were dimmable Maxilux Zenigata 4.5W Cool White GU10 bulbs with Sharp 3.6W Zenigata LEDs, supplied by <a href="http://www.yourwelcome.co.uk">yourwelcome.co.uk</a>.
 
-If each light is used for 6 hours per day on average, then the average saving will be about £400 per year&mdash;or £16 per bulb&mdash;with a payback period of about 9 months or so.
+If you are part of the Energy Challenge and you would like to order some LED bulbs, we have negotiated a discount with the supplier. Please contact us for details.
 
-The only tricky decision was what to do about the MR16 lights, which require a 12V supply&mdash;each with its own transformer&mdash;fitted when the lights were first installed. We found only one MR16 LED that would work with our transformers, which are designed for use with a higher-current halogen bulb.
-
-There were two choices: replace the transformers with new ones or remove the transformers altogether and switch over to GU10 sockets running straight off the mains. 
-
-GU10 halogen bulbs&mdash;which were introduced in the 1990s&mdash;make it possible to install MR16-type recessed reflectors without also having to install a separate transformer. A GU10 halogen bulb is more convenient, but it is also less efficient than a 12V halogen spot and the light quality is not as good.
-
-The introduction of LED lighting turns these differences on their head. mains-voltage GU10s tend to be more reliable, more efficient and less temperamental with dimmer switches than low-voltage MR16s.
-
-For new installations there is now usually no reason to use GU5.3 bulbs with a 12V supply, but for a retrofit the choice may not be quite so straight forward. Bulbs with GU10 fittings tend to be slightly longer than GU5.3 bulbs and some are also wider, and they will not necessarily be compatible with existing fixtures.
-
-Replacing transformers is a simple and relatively inexpensive job, but replacing an entire downlight housing could turn out to be more expensive. Before making a decision, we checked a variety of different bulbs.
-
-In the end, we got the old transformers pulled out and the old GU5.3 sockets replaced with GU10 sockets without having to replace the housings, although we had to be careful in our choice of bulb.
-
-In the end, we found a lesser-known brand called Maxilux (which use Sharp 3.6W Zenigata LEDs). They were the only bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures and dimmable (we actually don't have any dimmer switches installed, but these bulbs could last for several years and are a big investment, so we wanted to keep it as an option).
-
-If, on the other hand, we had decided to just replace the existing GU5.3 bulbs with the equivalent LEDs, then because of our temperamental transformers and tight-fitting light fixtures, of all the bulbs we tried the Philips Master LEDspot LV would have been our only choice, although its integrated fan made an audible whine which would, in any case, have made it unacceptable to us.
-
-If our existing light fixtures had more space and we needed more light output, then we might have been tempted with one of the newer LEDs from the likes of Philips or Toshiba, although we have got used to the somewhat faded light of our old halogens bulbs, which are no longer as bright as when we last replaced them. LED lights in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually too bright for our taste.
-
-The bulbs we eventually chose were Dimmable Maxilux Zenigata 4.5W Cool White GU10 LEDs, supplied by <a href="http://www.yourwelcome.co.uk">yourwelcome.co.uk</a>.
-
-If you are part of the Energy Challenge and you would like to order some LED lighting, then you can order through us to qualify for the special discount that we have managed to negotiate with the supplier.
 
 Sources:
 
-"Are MR16 LED lamps ready for the 50W-halogen switch?":http://ledsmagazine.com/features/9/6/8", LEDs magazine, June 2012
+"Are MR16 LED lamps ready for the 50W-halogen switch?":http://ledsmagazine.com/features/9/6/8 LEDs magazine, June 2012
 
-"New sources, old fittings":http://archive.luxmagazine.co.uk/2012/04/new-sources-old-fittings/, Lux magazine, April 2012
+"New sources, old fittings":http://archive.luxmagazine.co.uk/2012/04/new-sources-old-fittings/ Lux magazine, April 2012
 
 
 
