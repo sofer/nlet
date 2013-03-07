@@ -7,6 +7,9 @@ tags: []
 summary: "It was easy to do. We are saving money (and reducing our carbon footprint a bit, too)." 
 ---
 
+[ NOTE: This is not ready for publication yet. I am still waiting for the bulbs!]
+
+
 <div class="center inset">
   <img src="/images/halogens.png"/>
 </div>
@@ -43,6 +46,9 @@ If our existing light fixtures had more space and we had needed more light outpu
 We eventually chose dimmable Maxilux Zenigata 4.5W Cool White GU10 bulbs with Sharp 3.6W Zenigata LEDs, supplied by <a href="http://www.yourwelcome.co.uk">yourwelcome.co.uk</a>.
 
 If you are part of the Energy Challenge and you would like to order some LED bulbs, we have negotiated a discount with the supplier. Please contact us for details.
+
+
+[ PICTURE:  a pile of bulbs ]
 
 
 Sources:
