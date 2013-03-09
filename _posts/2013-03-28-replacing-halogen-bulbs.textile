@@ -7,6 +7,8 @@ tags: []
 summary: "It was easy to do. We are saving money (and reducing our carbon footprint a bit, too)." 
 ---
 
+
+
 [ NOTE: This is not ready for publication yet. I am still waiting for the bulbs!]
 
 
@@ -26,11 +28,11 @@ The introduction of LED lighting changes the relative benefits of MR16 bulbs. Ma
 
 But for a retrofit, the choice may not be quite so straight forward. Bulbs with GU10 fittings are slightly longer than GU5.3 bulbs and many GU10 LEDs are wider, so they will not necessarily be compatible with existing fixtures. Removing transformers is a simple and relatively inexpensive job, but replacing an entire downlight housing is more costly. 
 
-To complicate things further, many 12V LED bulbs will not work with existing transformers, which are designed for the much higher currents required by halogen bulbs. With few exceptions, 12V LEDs will not work at all with existing dimmer switches.
+To complicate things further, many 12V LED bulbs will not work with existing transformers, which are designed for the much higher currents required by halogen bulbs. With few exceptions, 12V LEDs will also not work at all with existing dimmer switches.
 
 In our case, several 12V LED bulbs acquired at different times over the last year or so have proved to be either too large for our existing recessed light fittings or incompatible with our existing transformers. The only bulb we found that did work was a Philips Master LEDspot LV, but its integrated cooling fan produced an audible whine which made it unacceptable to us.
 
-So, we gave up on the idea of doing a simple bulb swap and decided to have our existing transformers removed and the old GU5.3 sockets replaced with GU10 sockets running straight off the mains (except in the bathroom, where we kept the old fittings, because of the stricter regulations for re-wiring in bathrooms).
+So, we gave up on the idea of doing a simple bulb swap and decided to have our existing transformers removed and the old GU5.3 sockets replaced with GU10 sockets running straight off the mains (except in the bathroom, where we decided to keep the existing 12V supply for safety reasons).
 
 *Conclusion*
 In the end, we found a lesser-known brand called Maxilux. These were the only LED bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. We actually don't have any dimmer switches installed, but these bulbs could last for several years and are a big investment, so we wanted to keep dimming as an option.
@@ -43,7 +45,7 @@ Our halogen bulbs have now all been replaced with LEDs with a combined output of
 
 If our existing light fixtures had more space and we had needed more light output, then we might have been tempted with one of the newer LEDs from the likes of Philips or Toshiba. But we have got used to the somewhat faded light of our old halogens bulbs, which are not as bright as when we last changed them. LED bulbs in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually too bright for our taste.
 
-We eventually chose dimmable Maxilux Zenigata 4.5W Cool White GU10 bulbs with Sharp 3.6W Zenigata LEDs, supplied by <a href="http://www.yourwelcome.co.uk">yourwelcome.co.uk</a>.
+We chose dimmable Maxilux Zenigata 4.5W Cool White GU10 bulbs with Sharp 3.6W Zenigata LEDs, supplied by <a href="http://www.yourwelcome.co.uk">yourwelcome.co.uk</a>.
 
 If you are part of the Energy Challenge and you would like to order some of these bulbs, we have negotiated a discount with the supplier. Please contact us for details.
 
