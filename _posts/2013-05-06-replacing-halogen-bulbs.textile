@@ -8,16 +8,23 @@ summary: "There has never been a better time to do it"
 ---
 
 *Summary*
-If you have GU10 or MR16 halogen bulbs in your house, now is the time to replace them. We have researched the various alternatives, so you don't have to, and have negotiated a discount for our members from the supplier of our favourite LED bulbs.
+If you have GU10 or MR16 halogen bulbs in your house, now is the time to replace them. Here is what you need to know before you start and help on where to get the bulbs from (at a discount).
 
 <div class="center inset">
-  <img src="/images/halogens.png"/>
+  <img src="/images/leds.jpg"/>
+  <p>
+    Our favourite GU10 bulb&mdash;the Maxilux&mdash;is on the the far right and center. If it's got to be an old-style 2-pin fitting with temperamental old 12V transformers, then the slightly noisy Philips Master LEDspot (fourth from the left) is probably the one to go for.
+  </p>
 </div>
 
 *A bit of background*
 Standard MR16 halogen reflector light bulbs (with a GU5.3 base) require a 12V supply, supplied through a transformer. They are popular because they produce a good quality of light without taking up a lot of space.
 
 GU10 halogen bulbs have, since their introduction in the 1990s, offered an alternative light source that does not require a separate transformer. A GU10 halogen bulb is more convenient, but it is also less efficient than a 12V reflector and the light quality is generally not as good.
+
+<div class="center inset">
+  <img src="/images/halogens.png"/>
+</div>
 
 In our house we had, until this month, a combined total of eighteen GU5.3 recessed fittings in the kitchen, bathroom and hallway, and six GU10 fittings in various ceiling lights in bedrooms. The combined output from these 24 bulbs, which each took a 50W bulb, was 1,200kW, costing about 20p per hour.
 
@@ -28,12 +35,12 @@ But for a retrofit, the choices may not be quite so straight forward. Bulbs with
 
 To complicate things further, many 12V LED bulbs will not work with existing transformers, which are designed for the much higher currents required by halogen bulbs. With few exceptions, 12V LEDs will also not work at all with existing dimmer switches.
 
-In our case, several 12V LED bulbs acquired at different times over the last year or so have proved to be either too large for our existing recessed light fittings or incompatible with our existing transformers. The only bulb we found that did work was a Philips Master LEDspot LV, but its integrated cooling fan produced an audible whine which made it unacceptable to us.
+In our case, several 12V LED bulbs acquired at different times over the last year or so have proved to be either too large for our existing recessed light fittings or incompatible with our existing transformers. The only bulb we found that worked with all our transformers was the Philips Master LEDspot, but its integrated cooling fan produced an audible whine which made it less than ideal.
 
 So, we gave up on the idea of doing a simple bulb swap and decided to have our existing transformers removed and the old GU5.3 sockets replaced with GU10 sockets running straight off the mains (except in the bathroom, where we decided to keep the existing 12V supply for safety reasons).
 
 *Conclusion*
-In the end, we found a lesser-known brand called Maxilux. These were the only LED bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. We actually don't have any dimmer switches installed, but these bulbs could last for several years and are a big investment, so we wanted to keep dimming as an option.
+In the end, we went for a lesser-known brand called Maxilux (except in the bathroom where we used 10W GU5.3 Philips Master LEDspot). These were the only GU10 LED bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. We actually don't have any dimmer switches installed, but these bulbs could last for several years and are a big investment, so we wanted to keep dimming as an option.
 
 Our halogen bulbs have now all been replaced with LEDs with a combined output of less than 100W, costing a total of around 2p per hour, with no significant loss of light output. If each light is used on average for six hours per day, then the average saving will be about £400 per year&mdash;or £16 per bulb&mdash;with a payback period of about 9 months or so and an expected life of 10-15 years. 
 
