@@ -13,7 +13,7 @@ If you have GU10 or MR16 halogen bulbs in your house, now is the time to replace
 <div class="center inset">
   <img src="/images/leds.jpg"/>
   <p>
-    Our favourite GU10 bulb&mdash;the Maxilux&mdash;is on the the far right and center. If it's got to be an old-style 2-pin fitting with temperamental old 12V transformers, then the slightly noisy Philips Master LEDspot (fourth from the left) is probably the one to go for.
+    Our favourite GU10 bulb&mdash;the Maxilux&mdash;is on the the far right and center. If you already have old-style 2-pin fittings with temperamental 12V transformers, then the slightly noisy Philips Master LEDspot (fourth from the left) is probably the one to go for.
   </p>
 </div>
 
@@ -40,7 +40,7 @@ In our case, several 12V LED bulbs acquired at different times over the last yea
 So, we gave up on the idea of doing a simple bulb swap and decided to have our existing transformers removed and the old GU5.3 sockets replaced with GU10 sockets running straight off the mains (except in the bathroom, where we decided to keep the existing 12V supply for safety reasons).
 
 *Conclusion*
-In the end, we went for a lesser-known brand called Maxilux (except in the bathroom where we used 10W GU5.3 Philips Master LEDspot). These were the only GU10 LED bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. We actually don't have any dimmer switches installed, but these bulbs could last for several years and are a big investment, so we wanted to keep dimming as an option.
+In the end, we went for a lesser-known brand called Maxilux (except in the bathroom where we used 10W GU5.3 Philips Master LEDspot). These were the only GU10 LED bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. They also had possibly the best quality of light output, provided by a Sharp Zenigata LED module.
 
 Our halogen bulbs have now all been replaced with LEDs with a combined output of less than 100W, costing a total of around 2p per hour, with no significant loss of light output. If each light is used on average for six hours per day, then the average saving will be about £400 per year&mdash;or £16 per bulb&mdash;with a payback period of about 9 months or so and an expected life of 10-15 years. 
 
@@ -48,15 +48,12 @@ Our halogen bulbs have now all been replaced with LEDs with a combined output of
   <img src="/images/LED-vs-halogen.png"/>
 </div>
 
-If we had needed more light output and our existing light fixtures had been large enough, then we might have been tempted with higher-power LEDs from Philips or Toshiba. But we have got used to the somewhat faded light of our old halogens bulbs, which are not as bright as when we last changed them. LED bulbs in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually too bright for our taste.
+If we had needed more light output and our existing light fixtures had been large enough, then we might have been tempted with more expensive higher-power LEDs from Philips or Toshiba. But we have got used to the somewhat faded light of our old halogens bulbs, which are not as bright as when we last change
+d them. LED bulbs in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually too bright for our taste.
 
 We chose dimmable Maxilux Zenigata 4.5W Cool White GU10 bulbs with Sharp 3.6W Zenigata LEDs, supplied by <a href="http://www.yourwelcome.co.uk">yourwelcome.co.uk</a>. These bulbs are also available in a "warm white" colour.
 
 If you are part of the Energy Challenge and you would like to order some of these bulbs, we have negotiated a discount with the supplier. Please contact us for details.
-
-
-<!--[ PICTURE:  a pile of bulbs ] -->
-
 
 Sources:
 
