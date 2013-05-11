@@ -48,8 +48,7 @@ Our halogen bulbs have now all been replaced with LEDs with a combined output of
   <img src="/images/LED-vs-halogen.png"/>
 </div>
 
-If we had needed more light output and our existing light fixtures had been large enough, then we might have been tempted with more expensive higher-power LEDs from Philips or Toshiba. But we have got used to the somewhat faded light of our old halogens bulbs, which are not as bright as when we last change
-d them. LED bulbs in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually too bright for our taste.
+If we had needed more light output and our existing light fixtures had been large enough, then we might have been tempted with more expensive higher-power LEDs from Philips or Toshiba. But we have got used to the somewhat faded light of our old halogens bulbs, which are not as bright as when we last changed them. LED bulbs in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually too bright for our taste.
 
 We chose dimmable Maxilux Zenigata 4.5W Cool White GU10 bulbs with Sharp 3.6W Zenigata LEDs, supplied by <a href="http://www.yourwelcome.co.uk">yourwelcome.co.uk</a>. These bulbs are also available in a "warm white" colour.
 
