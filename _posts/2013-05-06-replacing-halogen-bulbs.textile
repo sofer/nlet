@@ -40,7 +40,7 @@ In our case, several 12V LED bulbs acquired at different times over the last yea
 So, we gave up on the idea of doing a simple bulb swap and decided to have our existing transformers removed and the old GU5.3 sockets replaced with GU10 sockets running straight off the mains (except in the bathroom, where we decided to keep the existing 12V supply for safety reasons).
 
 *Conclusion*
-In the end, we went for a lesser-known brand called Maxilux (except in the bathroom where we used 10W GU5.3 Philips Master LEDspot). These were the only GU10 LED bulbs we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. They also had arguably the best quality of light output, provided by a Sharp LED module.
+In the end, we went for a lesser-known brand called Maxilux, except in the bathroom where we used 10W GU5.3 Philips Master LEDspot. The Maxilux was the only GU10 LED bulb we could find that were powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. They also had the best quality of light output, provided by a Sharp LED COB ("chip-on-board") module. The Philips Master, while it uses more conventional surface-mounted LEDs, clearly uses some very sophisticated electronics to be able to cope with almost any old 12V transformer with out any noticeable flicker (shame about the noise from the internal microfan, though).
 
 Our halogen bulbs have now all been replaced with LEDs with a combined output of less than 100W, costing a total of around 2p per hour, with no significant loss of light output. If each light is used on average for six hours per day, then the average saving will be about £400 per year&mdash;or £16 per bulb&mdash;with a payback period of about 9 months or so and an expected life of 10-15 years. 
 
@@ -59,6 +59,8 @@ Sources:
 "Are MR16 LED lamps ready for the 50W-halogen switch?":http://ledsmagazine.com/features/9/6/8 LEDs magazine, June 2012
 
 "New sources, old fittings":http://archive.luxmagazine.co.uk/2012/04/new-sources-old-fittings/ Lux magazine, April 2012
+
+"LED Lighting : Newest COB LED technology explained":http://ledlights-reviews.com/led-lighting-evolution, January 2012
 
 
 
