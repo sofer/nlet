@@ -13,7 +13,7 @@ If you have GU10 or MR16 halogen bulbs in your house, now is the time to replace
 <div class="center inset">
   <img src="/images/leds.jpg"/>
   <p>
-    Our favourite GU10 bulb&mdash;the Maxilux&mdash;is on the the far right and center. If you already have old-style 2-pin fittings with temperamental 12V transformers, then the slightly noisy Philips Master LEDspot (fourth from the left) is probably the one to go for.
+    Our favourite GU10 bulb&mdash;the Maxilux&mdash;is on the the far right and at centre. If you already have old-style 2-pin fittings with temperamental 12V transformers, then the slightly noisy Philips Master LEDspot (fourth from the left) is probably the one to go for.
   </p>
 </div>
 
