@@ -40,7 +40,7 @@ In our case, several 12V LED bulbs acquired at different times over the last yea
 So, we gave up on the idea of doing a simple bulb swap and decided to have our existing transformers removed and the old GU5.3 sockets replaced with GU10 sockets running straight off the mains (except in the bathroom, where we decided to keep the existing 12V supply for safety reasons).
 
 *Conclusion*
-In the end, we went for a lesser-known brand called Maxilux, except in the bathroom where we used 10W GU5.3 Philips Master LEDspot. The Maxilux was the only GU10 LED bulb we could find that was powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. They also had the best quality of light output, provided by a Sharp LED COB ("chip-on-board") module. The Philips Master, while it uses more conventional surface-mounted LEDs, clearly uses some very sophisticated electronics to be able to cope with almost any old 12V transformer without any noticeable flicker (shame about the noise from the cooling fan).
+In the end, we went for a lesser-known brand called Maxilux, except in the bathroom where we used 10W GU5.3 Philips Master LEDspot. The Maxilux was the only GU10 LED bulb we could find that was powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. They also had the best quality of light output, provided by a Sharp LED COB ("chip-on-board") module. This technology will soon be widespread, but the Maxilux appears to have got to market first. The Philips Master, while it uses more conventional surface-mounted LEDs, clearly uses some very sophisticated electronics to be able to cope with almost any old 12V transformer without any noticeable flicker (shame about the noise from the cooling fan).
 
 Our halogen bulbs have now all been replaced with LEDs with a combined output of less than 100W, costing a total of around 2p per hour, with no significant loss of light output. If each light is used on average for six hours per day, then the average saving will be about £400 per year&mdash;or £16 per bulb&mdash;with a payback period of about 9 months or so and an expected life of 10-15 years. 
 
@@ -48,7 +48,7 @@ Our halogen bulbs have now all been replaced with LEDs with a combined output of
   <img src="/images/LED-vs-halogen.png"/>
 </div>
 
-If we had needed more light output and our existing light fixtures had been large enough, then we might have been tempted with more expensive higher-power LEDs from Philips or Toshiba. But we have got used to the somewhat faded light of our old halogens bulbs. LED bulbs in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually significantly brighter than a halogen light after a few hundred hours of use and are too bright for our taste.
+If we had needed more light output, then we might have been tempted to wait a few months for more higher-powered COB LEDs to become available, but we have got used to the somewhat faded light of our old halogens bulbs. LED bulbs in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually significantly brighter than a halogen light that have been in use for a few hundred hours and are too bright for our taste.
 
 We chose dimmable Maxilux Zenigata 4.5W Cool White GU10 bulbs with Sharp 3.6W Zenigata LEDs, supplied by <a href="http://www.yourwelcome.co.uk">yourwelcome.co.uk</a>. These bulbs are also available in a "warm white" colour.
 
@@ -56,13 +56,13 @@ If you are part of the Energy Challenge and you would like to order some of thes
 
 Sources:
 
+"Everlight, Samsung, Philips, and LG announce new COB products":http://ledsmagazine.com/news/10/5/4, May 2013
+
 "Are MR16 LED lamps ready for the 50W-halogen switch?":http://ledsmagazine.com/features/9/6/8 LEDs magazine, June 2012
 
 "New sources, old fittings":http://archive.luxmagazine.co.uk/2012/04/new-sources-old-fittings/ Lux magazine, April 2012
 
 "LED Lighting : Newest COB LED technology explained":http://ledlights-reviews.com/led-lighting-evolution, January 2012
-
-
 
 
 
