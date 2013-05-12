@@ -48,7 +48,7 @@ Our halogen bulbs have now all been replaced with LEDs with a combined output of
   <img src="/images/LED-vs-halogen.png"/>
 </div>
 
-If we had needed more light output, then we might have been tempted to wait a few months for more higher-powered COB LEDs to become available, but we have got used to the somewhat faded light of our old halogens bulbs. LED bulbs in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually significantly brighter than a halogen light that have been in use for a few hundred hours and are too bright for our taste.
+If we had needed more light output, then we might have been tempted to wait a few months for more higher-powered COB LEDs to become available, but we have got used to the somewhat faded light of our old halogens bulbs. LED bulbs in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually significantly brighter than a halogen light after a few hundred hours of use and are too bright for our taste.
 
 We chose dimmable Maxilux Zenigata 4.5W Cool White GU10 bulbs with Sharp 3.6W Zenigata LEDs, supplied by <a href="http://www.yourwelcome.co.uk">yourwelcome.co.uk</a>. These bulbs are also available in a "warm white" colour.
 
