@@ -39,15 +39,6 @@ In our case, several 12V LED bulbs acquired at different times over the last yea
 
 So, we gave up on the idea of doing a simple bulb swap and decided to have our existing transformers removed and the old GU5.3 sockets replaced with GU10 sockets running straight off the mains (except in the bathroom, where we decided to keep the existing 12V supply for safety reasons).
 
-*Recommendations*
-If you already have halogen lights with GU10 fittings, you are definitely in luck: go out and get replacement LED bulbs now. 
-
-If, on the other hand, you have traditional 12V MR16s, then proceed with caution. There are many alternative LED replacements to choose from, but you will not know if they are compatible with your existing transformers until you try them.
-
-Consider investing in one of the newer "COB" LEDs. They are not much more expensive and the light distribution is generally better than the surface-mounted LEDs used in older models (although your choices may be limited if your existing lights use an incompatible 12V transformer).
-
-Be aware that LEDs do not all produce the same colour of light. The usual descriptions used to generalise these differences are "cool white" and "warm white", although different bulbs will render subtly different colours within this range. Make sure you like the colour rendering of your chosen bulb before making a major investment.
-
 *Conclusion*
 In the end, we went for a lesser-known brand called Maxilux, except in the bathroom where we used 10W GU5.3 Philips Master LEDspots. The Maxilux was the only GU10 LED bulb we could find that was powerful enough to replace our 50W halogen bulbs, small enough to fit in the existing fixtures, and dimmable. They also had the best quality of light output, provided by a Sharp LED COB ("chip-on-board") module. This technology will soon be widespread, but the Maxilux is one of the first on the market. The Philips Master, while it uses more conventional surface-mounted LEDs, clearly uses some very sophisticated electronics to be able to cope with almost any old 12V transformer without any noticeable flicker (shame about the price and the noise from the cooling fan).
 
@@ -60,6 +51,15 @@ Our halogen bulbs have now all been replaced with LEDs with a combined output of
 If we had needed more light output, then we might have been tempted to wait a few months for higher-powered COB LEDs to become available, but we have got used to the somewhat faded light of our old halogens bulbs. LED bulbs in the 7-10W range&mdash;which are sometimes advertised as equivalent to 50W halogens&mdash;are actually significantly brighter than a halogen light after a few hundred hours of use and would be too bright for our needs.
 
 We chose dimmable Maxilux Zenigata 4.5W Cool White GU10 bulbs with Sharp 3.6W Zenigata LEDs, supplied by <a href="http://www.yourwelcome.co.uk">yourwelcome.co.uk</a>. These bulbs are also available in a "warm white" colour.
+
+*Recommendations*
+If you already have halogen lights with GU10 fittings, you are definitely in luck: go out and get replacement LED bulbs now. 
+
+If, on the other hand, you have traditional 12V MR16s, then proceed with caution. There are many alternative LED replacements to choose from, but you will not know if they are compatible with your existing transformers until you try them.
+
+Consider investing in one of the newer "COB" LEDs. They are not much more expensive and the light distribution is generally better than the surface-mounted LEDs used in older models (although your choices may be limited if your existing lights use an incompatible 12V transformer).
+
+Be aware that LEDs do not all produce the same colour of light. The usual descriptions used to generalise these differences are "cool white" and "warm white", although different bulbs will render subtly different colours within this range. Make sure you like the colour rendering of your chosen bulb before making a major investment.
 
 If you are part of the Energy Challenge and you would like to order some of these bulbs, we have negotiated a discount with the supplier. Please contact us for details.
 
