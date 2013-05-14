@@ -57,7 +57,7 @@ If you already have halogen lights with GU10 fittings, you are definitely in luc
 
 If, on the other hand, you have traditional 12V MR16s, then proceed with caution. There are many alternative LED replacements to choose from, but you will not know if they are compatible with your existing transformers until you try them.
 
-Consider investing in one of the newer "COB" LEDs. They are not much more expensive and the light distribution is generally better than the surface-mounted LEDs used in older models (although your choices may be limited if your existing lights use an incompatible 12V transformer).
+Consider investing in one of the newer "COB" LEDs. They are not much more expensive and the light distribution is generally better than the surface-mounted LEDs used in older models&mdash;although your choices may be limited if your existing lights use an incompatible 12V transformer.
 
 Be aware that LEDs do not all produce the same colour of light. The usual descriptions used to generalise these differences are "cool white" and "warm white", although different bulbs will render subtly different colours within this range. Make sure you like the colour rendering of your chosen bulb before making a major investment.
 
