@@ -31,7 +31,7 @@ In our house we had, until this month, a combined total of eighteen GU5.3 recess
 *Swapping to LEDs*
 The introduction of LED lighting does somewhat change the relative benefits of the different types of reflector bulbs. There is now no material difference in the quality of light output from the two different kinds of bulbs or in their energy consumption. The difference between the two kinds of bulb continues to be that the electronics to convert the power supply to low-voltage is contained in the base of the GU10 bulb, whereas GU5.3 bulbs use a separate transformer.
 
-But many existing transformers will not work with low-power LED bulbs. This means that for replacing existing halogen MR16 bulbs there are generally three choices: choose more expensive LED bulbs capable of working with existing transformers; replace existing transformers with new transformers capable of working at low currents; or remove the transformers altogether and switch to GU10 bulbs.
+But many existing transformers will not work with low-power LED bulbs. This means that&mdash;unless you have compatible transformers&mdash;there will be three choices for replacing existing halogen MR16 bulbs: choose more expensive LED bulbs capable of working with existing transformers; replace existing transformers with new transformers capable of working at low currents; or remove the transformers altogether and switch to GU10 bulbs.
 
 Furthermore, some LED bulbs are slightly longer and wider than their halogen equivalents, so they will not necessarily be compatible with existing fixtures. Replacing or removing the transformers needed for 12V MR16s is a simple and relatively inexpensive job, but replacing an entire downlight housing is likely to be more costly. 
 
